@@ -12,13 +12,35 @@ I'm **Peter Kabamba**, an Electrical Engineer with a passion for building softwa
 * **Robotics & IoT**: Designing intelligent systems using embedded expertise and control theory.
 ---
 
-###  My Toolbox
-#### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,cs,bash,powershell,matlab,react,nextjs,tailwind,nodejs,express,postgres,flask,fastapi,dotnet,mongodb)](https://skillicons.dev)
+### My Toolbox
 
-#### Tools & Environments
-[![My Tools](https://skillicons.dev/icons?i=docker,postman,git,vscode,arduino,pycharm,linux)](https://skillicons.dev)
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp,cs,bash,powershell,matlab)](https://skillicons.dev)
+
+#### Frameworks & Libraries
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask,fastapi,dotnet)](https://skillicons.dev)
+
+#### Databases & Cloud Services
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,aws)](https://skillicons.dev)
+
+#### DevOps / Infra
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions)](https://skillicons.dev)
+
+#### Collaboration & Platforms
+[![Collab](https://skillicons.dev/icons?i=github,postman)](https://skillicons.dev)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+#### IDEs & Tools
+[![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,arduino,platformio)](https://skillicons.dev)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+
+#### Operating Systems
+[![OS](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
+
 > **Note:** Also proficient in Engineering suites: *Proteus, ETAP and DIgSILENT.*
+
+
 
 ---
 
