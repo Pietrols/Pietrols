@@ -41,9 +41,14 @@ If you've found my content or projects helpful, you can support me by leveling u
 ---
 
 ### My Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pietrols&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietrols&layout=compact&theme=radical)
-![Profile views](https://komarev.com/ghpvc/?username=pietrols&color=blue&style=flat-square&label=Profile+Views)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pietrols&theme=radical)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pietrols&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pietrols&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=pietrols&color=grey&style=plastic&label=Profile+Views)
+
 
 ---
 
