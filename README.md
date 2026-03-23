@@ -15,10 +15,10 @@ I'm **Peter Kabamba**, an Electrical Engineer with a passion for building softwa
 ### My Toolbox
 
 #### Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp,cs,bash,powershell,matlab)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp,bash,powershell,matlab)](https://skillicons.dev)
 
 #### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask,fastapi,dotnet)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask,fastapi)](https://skillicons.dev)
 
 #### Databases & Cloud Services
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,aws)](https://skillicons.dev)
